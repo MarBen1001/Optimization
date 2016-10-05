@@ -1,4 +1,4 @@
 # Optimization
 Random Search, Hill Walking, Gradient Descent, Simulated Annealing
-Continuous Assignment Advanced Data Analytics Aug 2016
+Continuous Assessment Assignment: Advanced Data Analytics Aug 2016
 
